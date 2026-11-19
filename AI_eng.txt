@@ -1,2 +1,3 @@
 1st week - Python
 2nd week - SQL
+3rd week - Mongodb

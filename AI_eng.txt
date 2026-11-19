@@ -1,2 +1,2 @@
 1st week - Python
-
+2nd week - SQL
